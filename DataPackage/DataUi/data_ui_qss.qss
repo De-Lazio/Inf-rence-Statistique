@@ -1,0 +1,26 @@
+QLabel{
+    font-family: Century;
+    font-size: 14px;
+    }
+
+QPushButton{
+    font-family: Century;
+    font-size: 14px;
+    }
+
+QLineEdit{
+    font-family: Century;
+    font-size: 14px;
+    }
+
+#label{
+    font-family: Century;
+    font-size: 22px;
+    text-decoration: underline;
+    }
+
+#btnValider{
+    border-color: blue;
+    border-style: solid;
+    border-width: 2px;
+}

@@ -1,0 +1,153 @@
+* {
+				
+				padding:0;
+				margin:0;
+			
+			}
+			
+			.signe {
+			
+					margin-right:10px;
+			}
+			
+			details .tst_lk {
+			
+					margin-left:40px;
+					margin-top: 10px;
+					white-space:nowrap;
+			}
+			
+			
+			details{
+			
+				margin-top:10px
+			}
+			
+			h2 {
+			
+				margin-top:20px;
+				margin-left:20px;
+			}
+			
+			h3 {
+				margin-left:40px;
+				margin-bottom:20px;
+				margin-top:20px;
+				
+			}
+			
+			h1 {
+	
+	color: green;
+	
+}
+
+li{
+	
+	color: midnightblue;
+	
+}
+
+.nom {
+	
+	color:green;
+	font-family: century;
+	font-size: 16;
+	font-style: bold;
+	
+}
+
+table {
+	
+	border-collapse: collapse;
+	border: 2px solid midnightblue;
+	margin: 50px 100px;
+	min-width: 400px;
+	width: auto;
+}
+thead tr{
+	
+	background-color: midnightblue;
+	color: white;
+	
+}
+
+td, th {
+	
+	padding: 10px 20px;
+	
+}
+
+tbody td {
+	
+	border: 1px solid #ddd;
+	
+}
+
+tbody tr:nth-child(even){
+	
+	background-color: gray;
+	
+}
+			ul {
+				
+				margin-left:20px;
+				margin-bottom:40px;
+			}
+			
+			ul li {
+			
+				margin-left:40px;
+				margin-bottom:10px;
+			}
+			
+			summary::-webkit-details-marker{
+			
+				color:#00FF00;
+				background:#0000FF;
+			}
+			
+			details {
+				
+				
+				
+			}
+			details[open] summary::-webkit-details-marker{
+			
+				color:#00FF00; 
+				background:#0000FF;
+				
+				
+			}
+			
+			#links_div {
+				position: fixed; background-color: rgb(0,0,0,0.05); width:19%; height:98%; padding-top:50px; margin-bottom:20px; margin-left:0px; padding:5px; overflow: auto
+			}
+			
+			.tst_lk a{
+				color: black;
+			}
+
+			summary a{
+				color: black;
+			}
+			#content_div {
+				
+				position:fixed; width:80%; height: 100%; margin-left:20%; overflow:auto
+			}
+			div .graph {
+			
+				width:60%; 
+				height:60%; 
+				margin-left:80px;
+			}
+			
+			.img_div{
+				
+			}
+		
+			.partie {
+			
+				margin-left:40px;
+			
+			}

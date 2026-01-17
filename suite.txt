@@ -1,0 +1,36 @@
+Les variable ne change réelement pas de type avec l'environnemen de configuration de variable
+
+Déjà
+______________________________________________________________________________________________________
+
+    
+    Statistique descriptive
+    Test de T à une var Quant
+    T de Student à deux échantillons indépendantes
+    T de Student à deux échantillons appariés
+    Test de proportion Binomiale
+    Test de Fisher Standard
+    Test One Way ANOVA
+    Test Two Way ANOVA
+    
+
+
+
+Reste
+_________________________________________________________________________________________________________________________
+Test multinomiale
+Test de Siminov
+
+
+
+Sign => equivalent de T-Student 1 echantillon
+Wilcoxon Rank Sum =>equivalent de T-Student Indépendante
+Wilcoxon Signed Rank    => equivalent de T-Student Apparier
+
+
+Chi2
+
+McNemar
+symetrie de Broker
+
+Anova Repeter dans le temps
